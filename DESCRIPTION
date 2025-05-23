@@ -11,3 +11,6 @@ Description: More about what it does
 License: What license is it under?
 Imports: Rcpp (>= 1.0.13)
 LinkingTo: Rcpp, RcppArmadillo
+Depends: 
+    R (>= 2.10)
+LazyData: true
